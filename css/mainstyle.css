@@ -1,0 +1,160 @@
+
+/**********navbar**********/
+
+
+.topnav a {
+    float: left;
+    color: #0c0c0c;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  .topnav-right {
+    padding-top: 60px;
+    padding-right: 30px;
+    float: right;
+    font-weight: 400 ;
+  }
+  .logo{
+      padding-top: 10px;
+      padding-left: 1px;
+  }
+  .topnav a:hover {
+    background-color: rgb(129, 116, 116);
+    color: black;
+    border-radius:80px;
+  }
+
+
+/**********banner**********/
+
+
+  .banner_text h1{
+    padding-top: 50px;
+    padding-left: 30px;
+    color: #587931;
+    font-size: 30px;
+    font-weight: 700;
+  }
+  .banner_text h2{
+    padding-top: 0px;
+    padding-left: 30px;
+    color: #0f0f0f;
+    font-size: 82px;
+    font-weight: 700;
+  }
+  .banner_image img{
+    padding-top: 20px;
+    border-radius: 100%;
+    width: 100%;
+    height: auto;
+  }
+  .vector1{
+    padding-left: 45px;
+    padding-top: px;
+  }
+  .btn{
+    padding-left: 120px;
+    background-color: #587931;
+    width: 120px;
+    
+  }
+  .button{
+    padding-left: 120px;
+  }
+  .btn:hover {
+    background-color: rgb(168, 173, 167);
+  }
+
+
+  
+  /**********svgfooter1**********/
+
+
+  .footer1 img{
+    padding-top: 30px;
+    height: 60px;
+    width: 100%;
+    
+  }
+ 
+
+  /*******nyali-iko-love******/
+
+
+  .nyali-iko-love{
+    padding-top: 90px;
+
+  }
+  .iko-love h1{
+    font-size: 60px;
+    color: #587931;
+  }
+  .iko-love h2{
+    font-size: 60px;
+    color: #587931;
+  }
+  .vl {
+    border-left: 4px solid #BFBFBF;
+    height: 170px;
+  }
+  hr.new1{
+    border-top: 4px solid #BFBFBF;
+  }
+
+
+  /*******slideshow******/
+
+
+  * {box-sizing:border-box}
+
+
+/**** Slideshow container****/
+
+
+.slideshow-container {
+  padding-top: 20px;
+  position: relative;
+  margin: auto;
+}
+
+.carousel-inner img{
+  width: 40%;
+  
+}
+
+
+
+/*******About******/
+
+
+.about{
+  padding-top: 120px;
+  padding-bottom: 50px;
+}
+
+.about-ali-img img{
+  border-radius: 100%;
+  width: 100%;
+  height: auto;
+  
+}
+.desc-iko-love{
+padding-left: 30px;
+}
+
+
+/*******Contacts******/
+
+
+.about2{
+  padding-top: 110px;
+  padding-bottom: 100px;
+}
+.footer2 img{
+    height: 90px;
+    width: 100%;
+  
+}
+
